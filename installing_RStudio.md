@@ -3,11 +3,12 @@
 1.  Go to the [Comprehensive R Archive Network(CRAN)](http://ftp.osuosl.org/pub/cran/).
 2.  Pick the appropriate version for your computer:
     1.   **Macs**:
-       1.  `R-3.2.1.pkg` (Snow Leopard)
-       2.  `R-3.3.3.pkg` (Mavericks)
-       3.  `R-3.6.1.pkg` (El Capitan and higher)
+       1. `R-3.2.1.pkg` (Snow Leopard)
+       2. `R-3.3.3.pkg` (Mavericks)
+       3. `R-3.6.1.pkg` (El Capitan and higher)
 
         Make sure to read the notes on the install page:
+
         > R 3.6.1 binary for OS X 10.11 (El Capitan) and higher, signed package. Contains R 3.6.1 framework, R.app GUI 1.70 in 64-bit for Intel Macs, Tcl/Tk 8.6.6 X11 libraries and Texinfo 5.2. The latter two components are optional and can be ommitted when choosing "custom install", they are only needed if you want to use the tcltk R package or build package documentation from sources.
         >
         > Note: the use of X11 (including tcltk) requires XQuartz to be installed since it is no longer part of OS X. Always re-install XQuartz when upgrading your macOS to a new major version.
