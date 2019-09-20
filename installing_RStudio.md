@@ -2,10 +2,10 @@
 
 1.  Go to the [Comprehensive R Archive Network(CRAN)](http://ftp.osuosl.org/pub/cran/).
 2.  Pick the appropriate version for your computer:
-    1.   **Macs**:
-       1. `R-3.2.1.pkg` (Snow Leopard)
-       2. `R-3.3.3.pkg` (Mavericks)
-       3. `R-3.6.1.pkg` (El Capitan and higher)
+    * **Macs**:
+      * `R-3.2.1.pkg` (Snow Leopard)
+      * `R-3.3.3.pkg` (Mavericks)
+      * `R-3.6.1.pkg` (El Capitan and higher)
 
         Make sure to read the notes on the install page:
 
@@ -15,8 +15,8 @@
         >
         > Important: this release uses Clang 7.0.0 and GNU Fortran 6.1, neither of which is supplied by Apple. If you wish to compile R packages from sources, you will need to download and install those tools - see the tools directory.
 
-    2.   **PC**: Pick the base version.
-    3.   **Linux**: Choose the correct distribution and follow the instructions.
+   * **PC**: Pick the base version.
+   * **Linux**: Choose the correct distribution and follow the instructions.
 3.	After download, install R with default settings.
 
 # Step 2: Download and install RStudio Desktop
